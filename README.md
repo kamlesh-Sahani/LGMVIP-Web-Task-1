@@ -1,8 +1,59 @@
-# React + Vite
+# LGMVIP-Web-Task-1-TODO-
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Todo Web App
 
-Currently, two official plugins are available:
+This is a simple Todo web application built using React.js and styled with CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Add new tasks
+- Mark tasks as completed
+- Responsive design for desktop and mobile devices
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   [git clone https://github.com/your-username/todo-web-app.git](https://github.com/kamlesh-Sahani/LGMVIP-Web-Task-1-TODO-.git)
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd todo-web-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+1. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+2. Open your browser and navigate to `http://localhost:3000` to view the app.
+
+## Contributing
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
